@@ -1,0 +1,24 @@
+.body {
+  background-image: url("../asset/Mask_group.png");
+  background-size: cover;
+  background-position-x: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(21, 0, 65, 0.5) 0%,
+    rgba(21, 0, 65, 0.365) 51.76%,
+    rgba(21, 0, 65, 0.5) 100%
+  );
+  display: flex;
+  padding: 100px;
+}

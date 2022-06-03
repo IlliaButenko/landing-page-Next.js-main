@@ -1,0 +1,60 @@
+<!doctype html><html style="height:100%">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<title>Dead Man's Hand</title>
+<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ABeeZee&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya+Kanadaka&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya+Telivigala&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atma&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bad+Script&amp;display=swap">
+<link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+<link rel="stylesheet" href="assets/css/Footer-Dark.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+<link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+<link rel="stylesheet" href="assets/css/untitled.css">
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer="defer">
+new Crate({server:"879817009917993030",
+channel:"953397237021564978"})
+</script>
+<link href="/static/css/main.76598800.chunk.css" rel="stylesheet">
+</head>
+<body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="77" style="background:#10090f;color:var(--bs-purple);height:auto">
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top navigation-clean" style="background:#10090f;--bs-body-color:#ffffff;color:#fff">
+        <div class="container">
+            <a class="navbar-brand" href="https://discord.gg/xZgfeQ9UBz" style="background:url(&quot;assets/img/Asset%202.png&quot;) center/cover no-repeat;height:62px;width:87.141px">
+            </a>
+            <button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1" style="--bs-body-color:#ffffff"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon" style="--bs-body-color:#ffffff"></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1" style="color:#fff">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#" style="margin-top:4px;font-family:Cabin,sans-serif">Register</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" style="margin-top:4px;font-family:Cabin,sans-serif;margin-right:15px;color:#fff">Play</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://www.texaglo.com/" style="background:url(&quot;assets/img/Texaglo%20Logo%20Color.png&quot;) center/contain no-repeat;height:49px;width:118.188px;margin-right:10px"></a></li></ul></div></div></nav>
+
+
+// below is the footer// content will go between here and below//
+
+<footer class="footer-dark" style="padding-bottom: 40px;background: linear-gradient(rgba(53,0,133,0.7) 1%, rgba(24,4,55,0.65) 100%), url(&quot;assets/img/14188064_xxlArtboard%201.jpg&quot;) bottom, rgb(29,5,67);padding-top: 40px;margin-top: 93px;width: 100%;">
+        <div class="row">
+            <div class="col col-6 col-md-3 mx-auto"><img src="assets/img/Texaglo%20Logo%20White.png"></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col" style="padding-top: 12px;"><a class="text-uppercase" href="https://heyzine.com/flip-book/8340d5d7a4.html" style="margin-right: 43px;color: var(--bs-white);font-family: Cabin, sans-serif;font-size: 16px;">Services</a><a class="text-uppercase" href="https://heyzine.com/flip-book/70c03a5ae7.html" style="color: var(--bs-white);font-family: Cabin, sans-serif;font-size: 16px;margin-right: 1px;">Light Paper&nbsp;</a></div>
+                <div class="col-md-6 item text" style="height: 56px;margin-bottom: 0px;">
+                    <h3 style="color: white;"><br>TEXAGLO TECHNOLOGIES LTD. CO. © 2021<br><br></h3>
+                </div>
+                <div class="col item social" style="height: 56px;"><a href="https://twitter.com/texaglo_techno%22%3E<i class="icon ion-social-twitter"></i></a><a href="https://www.instagram.com/xxdr.potatoheadxx/%22%3E<i class="icon ion-social-instagram"></i></a></div>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js%22%3E</script>
+    <script src="assets/js/grayscale.js"></script>
+</body>
+
+</html>

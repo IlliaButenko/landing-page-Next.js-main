@@ -1,0 +1,132 @@
+.cover2 {
+  max-width: 33%;
+  position: absolute;
+  top: 100%;
+  left: 33%;
+}
+
+.cover {
+  max-width: 33%;
+  position: absolute;
+  top: 100%;
+  left: 0%;
+}
+
+.cover3 {
+  max-width: 33%;
+  position: absolute;
+  top: 100%;
+  left: 66%;
+}
+
+.button2 {
+  max-width: 100%;
+  position: absolute;
+  top: 81%;
+  left: 50%;
+}
+
+.full {
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.card-height {
+  height: 164.4px;
+  max-height: 20%;
+}
+
+img {
+  /*margin-bottom: 85%;*/
+  /*width: 100px;*/
+  /*height: 150px;*/
+  /*width: 25$;*/
+  max-width: 100%;
+}
+
+.cover_c {
+  max-width: 33%;
+  position: absolute;
+  top: 100%;
+  left: 0%;
+  max-height: 100%;
+}
+
+#carousel-1 {
+  max-width: 33%;
+  position: absolute;
+  top: 100%;
+  left: 33%;
+  max-height: 100%;
+}
+
+#mainNavMod {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;
+  letter-spacing: 1px;
+  border-bottom: none;
+  background: transparent;
+  font-family: "Cabin","Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #000000;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-muted {
+  /*--bs-text-opacity: 1;*/
+  /*color: #ffffff !important;*/
+}
+
+@media (min-width: 992px) {
+  #mainNav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;
+    letter-spacing: 1px;
+    border-bottom: none;
+    background: #282d32;
+  }
+}
+
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #ffffff !important;
+}
+
